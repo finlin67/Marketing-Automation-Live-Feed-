@@ -1,0 +1,5 @@
+{
+  "name": "Marketing Automation Live Feed",
+  "description": "A real-time dashboard visualization of a marketing automation pipeline, featuring a live conveyor belt animation, data processing stages, and dynamic statistics.",
+  "requestFramePermissions": []
+}
